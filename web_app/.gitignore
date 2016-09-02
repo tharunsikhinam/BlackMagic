@@ -1,0 +1,17 @@
+**/target
+**/*.class
+**/oozie/lib/*
+**/.idea
+**/*.iml
+**/local
+node_modules
+/web/node_modules/
+**/.settings
+**/*.classpath
+**/.project
+java-agent-test
+.DS_Store
+**/*.log.1
+**/*.log.2
+**/*.log
+**/dependency-reduced-pom.xml
