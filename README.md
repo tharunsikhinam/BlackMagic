@@ -15,6 +15,9 @@ To run it in Dev mode
  
  
  there are preloaded list of songs, do not pull them *(add ur own list of songs from local repo)
+#Web server 
+
+Runs on Node.js, required npm and node installed ..
  
 >cd web
 
@@ -28,4 +31,10 @@ to run it in prod
 
 >sh run.sh stage/production stage (single time)
 
->sh run.sh stage/production web (every new change)
+>sh run.sh stage/production web (every new feature)
+
+#Helper Scripts
+
+written in python 
+
+in MusicAppscripts to load fresh songs every day into ur MusicFolders
