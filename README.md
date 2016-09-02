@@ -33,6 +33,22 @@ to run it in prod
 
 >sh run.sh stage/production web (every new feature)
 
+
+#React-redux
+
+This app uses react and redux for the view layer.. 
+express server is used to host the static resources..
+
+>cd web/src/components 
+ 
+The above folder holds 
+MusicPage.js (display for all users)
+MusicDj.js (Music management for DJ for admin)
+
+currently uses only react. 
+
+Feel free to add any new feature to UI.
+
 #Helper Scripts
 
 written in python 
